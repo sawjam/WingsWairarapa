@@ -1,0 +1,14 @@
+
+li {
+	width: 140px;
+	height: 160px;
+}
+
+li a {
+	min-height: 141px;
+}
+
+div.select {
+	min-height: 192px;
+}
+	
